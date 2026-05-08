@@ -1,4 +1,4 @@
-
+Little Snitch for macOS updated Plugin: VPN-integration & device-lock offers the most advanced Little Snitch for macOS plugin, with VPN-integration and device-lock. Ideal for
 
 
 
